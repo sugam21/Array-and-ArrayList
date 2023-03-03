@@ -21,4 +21,10 @@
 2. result : It performs the calculation on the array taken from the arrayDist and returns minimum distance and minimum index.
 3. display : It shows the minimum distance and minimum index to user.
 
-# 
+# 😏Distance
+## It consists of 2 files
+1. EvenOdd.java : This files handles the operation of seperating the even and odd
+2. EvenOddInput.java : It takes the input of array from the user
+## It consists of following methods
+1. main : It takes the input array from EvenOddInput and seperates the even and odd numbers into seperate array. It also prints the even and odd array
+2. evenOddArray : It takes user input of numbers and returns the array.
