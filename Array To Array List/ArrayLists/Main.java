@@ -1,3 +1,7 @@
+// Name: Sugam Sharma
+// PRN : 21070126129
+// Batch: AIML(B-3)
+
 package ArrayLists;
 import java.lang.reflect.Array;
 import java.util.*;
